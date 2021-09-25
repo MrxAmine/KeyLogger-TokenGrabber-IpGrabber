@@ -16,5 +16,5 @@
 
 # Credits
 
-`ExtremeDev for base code`
+`AmineMrx for base code`
 `AstroOrbis for Readme enhancements`
